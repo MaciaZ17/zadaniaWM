@@ -1,0 +1,12 @@
+report.docx
+index.html
+photo.jpg
+data.csv
+budget.xlsx
+notes.txt
+picture.jpeg
+script.py
+slides.pptx
+archive.zip
+config.json
+song.mp3

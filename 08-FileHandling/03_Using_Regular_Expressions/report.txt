@@ -1,0 +1,12 @@
+Subject: Shopping report
+
+Hi Tom,
+
+here is the report of my shopping today:
+- groceries: €45.20
+- new shoes: €89.99
+- books: €23.50
+- coffee: €4.80
+
+Best regards,
+Anna

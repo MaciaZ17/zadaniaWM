@@ -1,0 +1,12 @@
+From: Mark Johnson <mark.johnson@example.com>
+To: Lisa Brown <lisa.brown@example.com>
+Subject: Project meeting on Friday
+Date: Mon, 10 Nov 2026 09:15:00 +0100
+
+Hi Lisa,
+
+I would like to invite you to the project meeting on Friday at 10:00.
+We will discuss the new website design and the schedule.
+
+Best regards,
+Mark
