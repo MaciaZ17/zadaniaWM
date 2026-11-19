@@ -1,0 +1,8 @@
+[
+    {"name": "Burek", "breed": "Mongrel", "age": 7},
+    {"name": "Luna", "breed": "Labrador", "age": 3},
+    {"name": "Max", "breed": "German Shepherd", "age": 5},
+    {"name": "Bella", "breed": "Beagle", "age": 2},
+    {"name": "Rocky", "breed": "Boxer", "age": 9},
+    {"name": "Daisy", "breed": "Poodle", "age": 1}
+]

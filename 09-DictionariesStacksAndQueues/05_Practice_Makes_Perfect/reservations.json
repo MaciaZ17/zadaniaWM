@@ -1,0 +1,8 @@
+[
+    {"room": 101, "guest": "John Smith", "price": 450.00, "paid": true},
+    {"room": 102, "guest": "Anna Nowak", "price": 380.00, "paid": false},
+    {"room": 201, "guest": "Peter Brown", "price": 520.00, "paid": true},
+    {"room": 202, "guest": "Maria Lopez", "price": 380.00, "paid": true},
+    {"room": 305, "guest": "Tom Walker", "price": 610.00, "paid": false},
+    {"room": 306, "guest": "Eva Green", "price": 450.00, "paid": true}
+]

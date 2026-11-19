@@ -1,0 +1,7 @@
+[
+    {"name": "Kraków", "voivodeship": "małopolskie", "population": 804000, "area_km2": 327},
+    {"name": "Warszawa", "voivodeship": "mazowieckie", "population": 1861000, "area_km2": 517},
+    {"name": "Gdańsk", "voivodeship": "pomorskie", "population": 487000, "area_km2": 262},
+    {"name": "Wrocław", "voivodeship": "dolnośląskie", "population": 674000, "area_km2": 293},
+    {"name": "Łódź", "voivodeship": "łódzkie", "population": 655000, "area_km2": 293}
+]
